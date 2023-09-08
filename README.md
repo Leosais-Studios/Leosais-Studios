@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Leosais-Studios.
 - 👀 I’m interested in anything to do with programming.
-- 🌱 I’m currently learning C#, HTML and CSS.
+- 🌱 I’m currently learning C#,Delphi & HTML and CSS.
 - 💞️ I’m looking to collaborate on nothing for now...
 
 <!---
